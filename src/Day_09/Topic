@@ -1,0 +1,6 @@
+Object -> toString, equals, hashcode
+
+Notes
+1. Base class of all classes in Java is Object
+2. Why does ArrayList, LinkedList, HashMap etc. print their content in syso and our class doesnot do it?
+    -> Because these classes override the toString function of Object class
