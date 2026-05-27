@@ -1,12 +1,13 @@
-OOPS
+#OOPS
 
-Classes and Objects (Encapsulation)
+##Classes and Objects (Encapsulation)
     Person
 	Reference vs Instance
 	Swap1 - p1 & p2 swap via temp
 	Swap2 - p1 and p2 swap via properties
 	Games in Swap2 - new p1 and p2
-Miscellaneous
+##Miscellaneous
+'''
     static & non-static - BankAccount story
         static vs non-static data members
         static fns - no "this", only static data members
@@ -31,3 +32,4 @@ Jargon - encapsulation, data hiding, abstraction, inheritance, polymorphism,
 Extra
     generics & overloading
     exceptions & namespaces
+   '''
